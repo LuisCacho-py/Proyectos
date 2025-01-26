@@ -1,0 +1,84 @@
+id,materia,calificacion
+1123,programacion,10
+1123,matematicas 1,10
+1123,matematicas 2,9
+1123,matematicas 3,8
+1123,matematicas 4,7
+1123,fisica 1,10
+1123,fisica 2,9
+1124,programacion,10
+1124,matematicas 1,10
+1124,matematicas 2,9
+1124,matematicas 3,8
+1124,matematicas 4,7
+1124,fisica 1,10
+1124,fisica 2,9
+1125,programacion,7
+1125,estatica,9
+1125,fisica 1,10
+1125,fisica 2,9
+1125,etica,10
+1125,ingles,10
+1125,frances,7
+1126,programacion,7
+1126,estatica,9
+1126,fisica 1,10
+1126,fisica 2,9
+1126,etica,10
+1126,ingles,10
+1126,frances,7
+1127,programacion,8
+1127,quimica 1,10
+1127,quimica 2,10
+1127,fisica 1,10
+1127,fisica 2,10
+1127,algoritmos,10
+1127,etica,6
+1128,quimica 1,10
+1128,quimica 2,10
+1128,fisica 1,10
+1128,fisica 2,10
+1128,algoritmos,10
+1128,etica,6
+1129,programacion,10
+1129,algoritmos,10
+1129,etica,10
+1129,base de datos,8
+1129,hackeo,10
+1129,criptografia,8
+1129,fisica 1,9
+1130,programacion,10
+1130,algoritmos,10
+1130,etica,10
+1130,base de datos,8
+1130,hackeo,10
+1130,criptografia,8
+1130,fisica 1,9
+1131,programacion,10
+1131,matematicas 1,10
+1131,fisica 1,10
+1131,fisica 2,9
+1131,quimica 1,10
+1131,quimica 2,10
+1131,etica,10
+1132,programacion,10
+1132,matematicas 1,10
+1132,fisica 1,10
+1132,fisica 2,9
+1132,quimica 1,10
+1132,quimica 2,10
+1132,etica,10
+1133,programacion,10
+1133,etica,10
+1133,algoritmos,10
+1133,criptografia,9
+1133,matematicas 1,10
+1133,matematicas 2,9
+1133,fisica 1,10
+1134,programacion,10
+1134,etica,10
+1134,algoritmos,10
+1134,criptografia,9
+1134,matematicas 1,10
+1134,matematicas 2,9
+1134,fisica 1,10
