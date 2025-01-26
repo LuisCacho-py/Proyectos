@@ -9,7 +9,7 @@ Descuento del 25% para estudiantes.
 Flujo interactivo en línea de comandos.
 Tecnologías: Python (listas, bucles, condicionales).
 
-2. Proyecto Final (2do Semestre - "Logica y Estructuras Discretas"): 
+2.- Proyecto Final (2do Semestre - "Logica y Estructuras Discretas"): 
 Aplicación de escritorio desarrollada con Tkinter "Calculadora de diferentes problematicas".
 Proporciona una interfaz gráfica para abrir y gestionar programas relacionados con temas de lógica y matemáticas discretas. Incluye botones interactivos para ejecutar distintos archivos Python y HTML.
 
