@@ -23,3 +23,5 @@ Gestión de procesos con subprocess.
 Diseño simple con Tkinter y distribución por cuadrícula.
 Tecnologías: Python (Tkinter, subprocess, manejo de excepciones).
 
+3.- Proyecto (
+
